@@ -1,0 +1,931 @@
+nohup: ignoring input
+3
+begin benchmark with skew 0.000000 
+begin send with from 0 to 5000 
+ send finish 5000 tx in poll
+begin send with from 5000 to 10000 
+ send finish 9651 tx in poll
+begin send with from 10000 to 15000 
+ send finish 14651 tx in poll
+begin send with from 15000 to 20000 
+ send finish 19651 tx in poll
+begin send with from 20000 to 25000 
+ send finish 24651 tx in poll
+begin send with from 25000 to 30000 
+ send finish 29651 tx in poll
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:29651 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:24651 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:14651 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:9651 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:4651 
+config_tx_pool_size:10 common_tx_pool_size:50000 
+10
+begin benchmark with skew 0.100000 
+begin send with from 0 to 5000 
+ send finish 4967 tx in poll
+begin send with from 5000 to 10000 
+ send finish 9967 tx in poll
+begin send with from 10000 to 15000 
+ send finish 14967 tx in poll
+begin send with from 15000 to 20000 
+ send finish 19967 tx in poll
+begin send with from 20000 to 25000 
+ send finish 24967 tx in poll
+begin send with from 25000 to 30000 
+ send finish 29967 tx in poll
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:29967 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:23400 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:13400 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:13400 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:3400 
+config_tx_pool_size:10 common_tx_pool_size:50000 
+18
+begin benchmark with skew 0.200000 
+begin send with from 0 to 5000 
+ send finish 5000 tx in poll
+begin send with from 5000 to 10000 
+ send finish 9762 tx in poll
+begin send with from 10000 to 15000 
+ send finish 14762 tx in poll
+begin send with from 15000 to 20000 
+ send finish 19762 tx in poll
+begin send with from 20000 to 25000 
+ send finish 24762 tx in poll
+begin send with from 25000 to 30000 
+ send finish 29762 tx in poll
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:29762 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:24762 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19762 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:9762 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:4762 
+config_tx_pool_size:10 common_tx_pool_size:50000 
+25
+begin benchmark with skew 0.300000 
+begin send with from 0 to 5000 
+ send finish 5000 tx in poll
+begin send with from 5000 to 10000 
+ send finish 9986 tx in poll
+begin send with from 10000 to 15000 
+ send finish 14397 tx in poll
+begin send with from 15000 to 20000 
+ send finish 19475 tx in poll
+begin send with from 20000 to 25000 
+ send finish 24030 tx in poll
+begin send with from 25000 to 30000 
+ send finish 29466 tx in poll
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:24475 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:24475 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19475 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:4475 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:4475 
+config_tx_pool_size:10 common_tx_pool_size:50000 
+32
+begin benchmark with skew 0.400000 
+begin send with from 0 to 5000 
+ send finish 4974 tx in poll
+begin send with from 5000 to 10000 
+ send finish 10000 tx in poll
+begin send with from 10000 to 15000 
+ send finish 14742 tx in poll
+begin send with from 15000 to 20000 
+ send finish 19045 tx in poll
+begin send with from 20000 to 25000 
+ send finish 24045 tx in poll
+begin send with from 25000 to 30000 
+ send finish 29045 tx in poll
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:29045 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19045 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19045 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:14045 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_pending:4045 
+config_tx_pool_size:10 common_tx_pool_size:50000 
+39
+begin benchmark with skew 0.500000 
+begin send with from 0 to 5000 
+ send finish 5000 tx in poll
+begin send with from 5000 to 10000 
+ send finish 10000 tx in poll
+begin send with from 10000 to 15000 
+ send finish 14400 tx in poll
+begin send with from 15000 to 20000 
+ send finish 19400 tx in poll
+begin send with from 20000 to 25000 
+ send finish 24400 tx in poll
+begin send with from 25000 to 30000 
+ send finish 29400 tx in poll
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:29400 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:24400 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:14400 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:9400 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:4400 
+config_tx_pool_size:10 common_tx_pool_size:50000 
+46
+begin benchmark with skew 0.600000 
+begin send with from 0 to 5000 
+ send finish 5000 tx in poll
+begin send with from 5000 to 10000 
+ send finish 10000 tx in poll
+begin send with from 10000 to 15000 
+ send finish 14453 tx in poll
+begin send with from 15000 to 20000 
+ send finish 19453 tx in poll
+begin send with from 20000 to 25000 
+ send finish 24453 tx in poll
+begin send with from 25000 to 30000 
+ send finish 29453 tx in poll
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:29453 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:24453 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:24452 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19441 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:24439 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:24439 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:21180 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:11180 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:11180 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:11180 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:11180 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:11180 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:11180 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:11180 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:11180 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:11180 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:11180 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:11180 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:11180 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:11180 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:11180 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:11180 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:11180 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:11180 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:11180 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:11180 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:11180 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:11180 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:11180 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:11180 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:11180 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:11180 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:11180 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:11180 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:11180 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:11180 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:11180 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 
+50
+begin benchmark with skew 0.700000 
+begin send with from 0 to 5000 
+ send finish 5000 tx in poll
+begin send with from 5000 to 10000 
+ send finish 9645 tx in poll
+begin send with from 10000 to 15000 
+ send finish 14645 tx in poll
+begin send with from 15000 to 20000 
+ send finish 19645 tx in poll
+begin send with from 20000 to 25000 
+ send finish 24645 tx in poll
+begin send with from 25000 to 30000 
+ send finish 29645 tx in poll
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:29645 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:24645 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:24645 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:24645 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19645 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:21189 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:21189 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:21188 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:21188 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:16188 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:17116 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:17085 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:17085 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:17085 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:12085 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:12085 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:12085 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:12085 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:12085 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:12085 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:12085 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:12085 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:12085 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:12085 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:12085 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:12085 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:12085 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:12085 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:12085 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:12085 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:12085 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:12085 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:12085 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:12085 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:12085 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:12085 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:12085 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:12085 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:12085 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:12085 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:12085 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:12085 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:12085 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:12085 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:12085 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:12085 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 
+54
+begin benchmark with skew 0.800000 
+begin send with from 0 to 5000 
+ send finish 5000 tx in poll
+begin send with from 5000 to 10000 
+ send finish 10000 tx in poll
+begin send with from 10000 to 15000 
+ send finish 15000 tx in poll
+begin send with from 15000 to 20000 
+ send finish 20000 tx in poll
+begin send with from 20000 to 25000 
+ send finish 25000 tx in poll
+begin send with from 25000 to 30000 
+ send finish 30000 tx in poll
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:29387 common_tx_num_in_pending:613 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:29387 common_tx_num_in_pending:613 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:29387 common_tx_num_in_pending:613 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:29387 common_tx_num_in_pending:613 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:29387 common_tx_num_in_pending:613 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:29387 common_tx_num_in_pending:613 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:29387 common_tx_num_in_pending:613 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:29387 common_tx_num_in_pending:613 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:24993 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:24993 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:24993 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:24993 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:29991 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:29991 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:29991 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:24976 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:24976 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:24976 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:24976 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:26158 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:26109 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:21109 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:21467 common_tx_num_in_pending:4642 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:21467 common_tx_num_in_pending:4642 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:21467 common_tx_num_in_pending:4642 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:21467 common_tx_num_in_pending:4642 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:26109 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:26060 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:26060 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:26060 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:21060 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:21060 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:21060 common_tx_num_in_pending:8 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:21060 common_tx_num_in_pending:8 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:21060 common_tx_num_in_pending:8 
+<nil>
+panic: runtime error: invalid memory address or nil pointer dereference
+[signal SIGSEGV: segmentation violation code=0x1 addr=0x14 pc=0x159805e]
+
+goroutine 1 [running]:
+main.main()
+	/root/finalChain/tools/cmc/main.go:101 +0x7de
+exit status 2
+nohup: ignoring input
+3
+begin benchmark with skew 0.000000 
+begin send with from 0 to 5000 
+ send finish 4900 tx in poll
+begin send with from 5000 to 10000 
+ send finish 9900 tx in poll
+begin send with from 10000 to 15000 
+ send finish 14569 tx in poll
+begin send with from 15000 to 20000 
+ send finish 19900 tx in poll
+begin send with from 20000 to 25000 
+ send finish 24900 tx in poll
+begin send with from 25000 to 30000 
+ send finish 29900 tx in poll
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:29900 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:22796 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:17796 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:2796 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 
+11
+begin benchmark with skew 0.100000 
+begin send with from 0 to 5000 
+ send finish 5000 tx in poll
+begin send with from 5000 to 10000 
+ send finish 9942 tx in poll
+begin send with from 10000 to 15000 
+ send finish 15000 tx in poll
+begin send with from 15000 to 20000 
+ send finish 19075 tx in poll
+begin send with from 20000 to 25000 
+ send finish 24075 tx in poll
+begin send with from 25000 to 30000 
+ send finish 28926 tx in poll
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:29049 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19075 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:14075 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:9075 
+config_tx_pool_size:10 common_tx_pool_size:50000 
+18
+begin benchmark with skew 0.200000 
+begin send with from 0 to 5000 
+ send finish 5000 tx in poll
+begin send with from 5000 to 10000 
+ send finish 9942 tx in poll
+begin send with from 10000 to 15000 
+ send finish 15000 tx in poll
+begin send with from 15000 to 20000 
+ send finish 19077 tx in poll
+begin send with from 20000 to 25000 
+ send finish 24077 tx in poll
+begin send with from 25000 to 30000 
+ send finish 29077 tx in poll
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:29077 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:24077 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:14077 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:9077 
+config_tx_pool_size:10 common_tx_pool_size:50000 
+25
+begin benchmark with skew 0.300000 
+begin send with from 0 to 5000 
+ send finish 5000 tx in poll
+begin send with from 5000 to 10000 
+ send finish 9764 tx in poll
+begin send with from 10000 to 15000 
+ send finish 14764 tx in poll
+begin send with from 15000 to 20000 
+ send finish 19764 tx in poll
+begin send with from 20000 to 25000 
+ send finish 24764 tx in poll
+begin send with from 25000 to 30000 
+ send finish 29764 tx in poll
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:29764 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:24764 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:9764 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:9764 
+config_tx_pool_size:10 common_tx_pool_size:50000 
+32
+begin benchmark with skew 0.400000 
+begin send with from 0 to 5000 
+ send finish 5000 tx in poll
+begin send with from 5000 to 10000 
+ send finish 9886 tx in poll
+begin send with from 10000 to 15000 
+ send finish 15000 tx in poll
+begin send with from 15000 to 20000 
+ send finish 19144 tx in poll
+begin send with from 20000 to 25000 
+ send finish 24144 tx in poll
+begin send with from 25000 to 30000 
+ send finish 29144 tx in poll
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:24144 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:24144 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:14144 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:4144 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 
+39
+begin benchmark with skew 0.500000 
+begin send with from 0 to 5000 
+ send finish 5000 tx in poll
+begin send with from 5000 to 10000 
+ send finish 10000 tx in poll
+begin send with from 10000 to 15000 
+ send finish 15000 tx in poll
+begin send with from 15000 to 20000 
+ send finish 19045 tx in poll
+begin send with from 20000 to 25000 
+ send finish 24045 tx in poll
+begin send with from 25000 to 30000 
+ send finish 29045 tx in poll
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:29045 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19045 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19044 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:14044 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:4044 
+config_tx_pool_size:10 common_tx_pool_size:50000 
+46
+begin benchmark with skew 0.600000 
+begin send with from 0 to 5000 
+ send finish 4932 tx in poll
+begin send with from 5000 to 10000 
+ send finish 9932 tx in poll
+begin send with from 10000 to 15000 
+ send finish 14932 tx in poll
+begin send with from 15000 to 20000 
+ send finish 19932 tx in poll
+begin send with from 20000 to 25000 
+ send finish 24932 tx in poll
+begin send with from 25000 to 30000 
+ send finish 29932 tx in poll
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:29932 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:26927 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:26924 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:26924 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:26924 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:21924 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:21924 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:21924 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:23434 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:18434 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:13434 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:13434 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:13754 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:13754 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:13754 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:13754 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:8754 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:8754 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:8754 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:8754 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:8754 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:8754 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:8754 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:8754 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:8754 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:8754 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:8754 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:8754 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:8754 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:8754 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:8754 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:8754 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:8754 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:8754 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:8754 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:8754 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:8754 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:8754 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:8754 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:8754 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:8754 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:8754 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:8754 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:8754 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:8754 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:8754 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:8754 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 
+51
+begin benchmark with skew 0.700000 
+begin send with from 0 to 5000 
+ send finish 5000 tx in poll
+begin send with from 5000 to 10000 
+ send finish 10000 tx in poll
+begin send with from 10000 to 15000 
+ send finish 15000 tx in poll
+begin send with from 15000 to 20000 
+ send finish 20000 tx in poll
+begin send with from 20000 to 25000 
+ send finish 25000 tx in poll
+begin send with from 25000 to 30000 
+ send finish 30000 tx in poll
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:28980 common_tx_num_in_pending:1020 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:28980 common_tx_num_in_pending:1020 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:28980 common_tx_num_in_pending:1020 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:28980 common_tx_num_in_pending:1020 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:28980 common_tx_num_in_pending:1020 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:28980 common_tx_num_in_pending:1020 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:28980 common_tx_num_in_pending:1020 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:28980 common_tx_num_in_pending:1020 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:21005 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:21005 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:26001 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:26001 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:26001 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:26001 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:22148 common_tx_num_in_pending:3853 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:22148 common_tx_num_in_pending:3853 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:25996 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:25996 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:25996 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20984 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20984 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20984 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20984 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20984 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20984 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20984 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20984 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20984 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20984 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20984 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20984 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20984 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20984 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20984 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20984 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20984 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20984 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20984 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20984 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20984 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20984 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20984 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20984 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20984 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20984 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20984 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20984 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20984 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20984 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20984 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20984 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20984 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20984 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20984 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20984 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 
+52
+begin benchmark with skew 0.800000 
+begin send with from 0 to 5000 
+ send finish 5000 tx in poll
+begin send with from 5000 to 10000 
+ send finish 9720 tx in poll
+begin send with from 10000 to 15000 
+ send finish 14720 tx in poll
+begin send with from 15000 to 20000 
+ send finish 19720 tx in poll
+begin send with from 20000 to 25000 
+ send finish 24720 tx in poll
+begin send with from 25000 to 30000 
+ send finish 29720 tx in poll
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:29720 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:24720 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:24670 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:24670 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:21564 common_tx_num_in_pending:3106 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:21564 common_tx_num_in_pending:3106 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:24646 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:24646 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19596 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19596 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19596 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19596 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19596 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:24595 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:24595 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19755 common_tx_num_in_pending:4840 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:24554 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:24554 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:24554 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:24539 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:24539 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19539 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19539 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19539 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19539 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19539 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19539 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19539 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19539 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19539 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19539 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19539 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19539 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19539 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19539 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19539 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19539 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19539 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19539 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19539 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19539 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19539 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19539 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19539 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19539 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19539 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19539 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19539 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19539 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19539 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19539 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19539 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19539 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19539 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19539 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19539 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19539 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19539 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19539 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19539 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19539 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19539 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 
+54
+begin benchmark with skew 0.900000 
+begin send with from 0 to 5000 
+ send finish 5000 tx in poll
+begin send with from 5000 to 10000 
+ send finish 10000 tx in poll
+begin send with from 10000 to 15000 
+ send finish 15000 tx in poll
+begin send with from 15000 to 20000 
+ send finish 20000 tx in poll
+begin send with from 20000 to 25000 
+ send finish 25000 tx in poll
+begin send with from 25000 to 30000 
+ send finish 30000 tx in poll
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:29667 common_tx_num_in_pending:333 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:25554 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:25554 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:25554 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:25554 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:21168 common_tx_num_in_pending:4386 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:21168 common_tx_num_in_pending:4386 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:25512 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:25512 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:25512 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20447 common_tx_num_in_pending:4995 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20447 common_tx_num_in_pending:4995 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20447 common_tx_num_in_pending:4995 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20447 common_tx_num_in_pending:4995 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20447 common_tx_num_in_pending:4995 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20447 common_tx_num_in_pending:4995 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20447 common_tx_num_in_pending:4995 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20447 common_tx_num_in_pending:4995 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20447 common_tx_num_in_pending:4995 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20447 common_tx_num_in_pending:4995 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20447 common_tx_num_in_pending:4995 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20447 common_tx_num_in_pending:4995 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20447 common_tx_num_in_pending:4995 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20447 common_tx_num_in_pending:4995 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20447 common_tx_num_in_pending:4995 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20447 common_tx_num_in_pending:4995 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20447 common_tx_num_in_pending:4995 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20447 common_tx_num_in_pending:4995 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20447 common_tx_num_in_pending:4995 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20447 common_tx_num_in_pending:4995 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20447 common_tx_num_in_pending:4995 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20447 common_tx_num_in_pending:4995 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20447 common_tx_num_in_pending:4995 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20447 common_tx_num_in_pending:4995 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20447 common_tx_num_in_pending:4995 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20447 common_tx_num_in_pending:4995 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20447 common_tx_num_in_pending:4995 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20447 common_tx_num_in_pending:4995 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20447 common_tx_num_in_pending:4995 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20447 common_tx_num_in_pending:4995 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20447 common_tx_num_in_pending:4995 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20447 common_tx_num_in_pending:4995 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20447 common_tx_num_in_pending:4995 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20447 common_tx_num_in_pending:4995 
+config_tx_pool_size:10 common_tx_pool_size:50000 
+55
+begin benchmark with skew 1.000000 
+begin send with from 0 to 5000 
+ send finish 5000 tx in poll
+begin send with from 5000 to 10000 
+ send finish 10000 tx in poll
+begin send with from 10000 to 15000 
+ send finish 15000 tx in poll
+begin send with from 15000 to 20000 
+ send finish 20000 tx in poll
+begin send with from 20000 to 25000 
+ send finish 25000 tx in poll
+begin send with from 25000 to 30000 
+ send finish 30000 tx in poll
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:29595 common_tx_num_in_pending:405 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:29983 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:29714 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:29714 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:29714 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:24714 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:29459 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:29459 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:29459 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:29459 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:29459 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:29459 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:29459 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:24837 common_tx_num_in_pending:4198 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:24837 common_tx_num_in_pending:4198 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:24837 common_tx_num_in_pending:4198 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:24837 common_tx_num_in_pending:4198 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:24837 common_tx_num_in_pending:4198 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:24837 common_tx_num_in_pending:4198 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:24837 common_tx_num_in_pending:4198 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:24837 common_tx_num_in_pending:4198 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:24837 common_tx_num_in_pending:4198 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:24837 common_tx_num_in_pending:4198 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:28835 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:28329 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:28329 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:28329 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:28329 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:28329 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:28329 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:28329 
+config_tx_pool_size:10 common_tx_pool_size:50000 
+55
+begin benchmark with skew 1.100000 
+begin send with from 0 to 5000 
+ send finish 5000 tx in poll
+begin send with from 5000 to 10000 
+ send finish 10000 tx in poll
+begin send with from 10000 to 15000 
+ send finish 15000 tx in poll
+begin send with from 15000 to 20000 
+ send finish 20000 tx in poll
+begin send with from 20000 to 25000 
+ send finish 25000 tx in poll
+begin send with from 25000 to 30000 
+ send finish 30000 tx in poll
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:29222 common_tx_num_in_pending:778 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:29525 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:28797 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20183 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:24672 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:24532 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:23735 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20049 common_tx_num_in_pending:3409 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:22578 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:22314 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:17015 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:21752 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20860 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20823 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:16964 common_tx_num_in_pending:3414 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20145 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19472 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:14396 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:18901 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:18799 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:15133 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:7485 common_tx_num_in_pending:3641 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:6627 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:6494 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_pending:2663 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:1919 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_pending:1919 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:1672 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:1672 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:1672 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:1672 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:1672 
+config_tx_pool_size:10 common_tx_pool_size:50000 
+62
+begin benchmark with skew 1.200000 
+begin send with from 0 to 5000 
+ send finish 5000 tx in poll
+begin send with from 5000 to 10000 
+ send finish 10000 tx in poll
+begin send with from 10000 to 15000 
+ send finish 15000 tx in poll
+begin send with from 15000 to 20000 
+ send finish 20000 tx in poll
+begin send with from 20000 to 25000 
+ send finish 25000 tx in poll
+begin send with from 25000 to 30000 
+ send finish 29573 tx in poll
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:29573 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:28826 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:28044 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:22444 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:27101 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:26528 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:25814 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:21226 common_tx_num_in_pending:3122 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:22189 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:21676 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:15791 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19844 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19213 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:18347 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:12249 common_tx_num_in_pending:2917 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:14507 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:12602 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:7370 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:8764 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:7992 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:7967 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:4447 common_tx_num_in_pending:3481 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:7492 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:6895 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_pending:3236 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:2544 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:2057 
+config_tx_pool_size:10 common_tx_pool_size:50000 
+67
+begin benchmark with skew 1.300000 
+begin send with from 0 to 5000 
+ send finish 5000 tx in poll
+begin send with from 5000 to 10000 
+ send finish 10000 tx in poll
+begin send with from 10000 to 15000 
+ send finish 15000 tx in poll
+begin send with from 15000 to 20000 
+ send finish 20000 tx in poll
+begin send with from 20000 to 25000 
+ send finish 25000 tx in poll
+begin send with from 25000 to 30000 
+ send finish 30000 tx in poll
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:30000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:29178 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:22027 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:25974 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:24809 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:23799 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:17767 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:21428 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20160 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:18692 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:14531 common_tx_num_in_pending:2841 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:16216 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:14817 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:8376 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:12523 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:11194 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:10308 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:4836 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:9615 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:9251 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:8614 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:7692 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:7289 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:6875 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:1864 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:6857 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:6654 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:1550 common_tx_num_in_pending:4555 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:5906 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:5450 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:5130 
+config_tx_pool_size:10 common_tx_pool_size:50000 
+68
+begin benchmark with skew 1.400000 
+begin send with from 0 to 5000 
+ send finish 5000 tx in poll
+begin send with from 5000 to 10000 
+ send finish 10000 tx in poll
+begin send with from 10000 to 15000 
+ send finish 15000 tx in poll
+begin send with from 15000 to 20000 
+ send finish 20000 tx in poll
+begin send with from 20000 to 25000 
+ send finish 24999 tx in poll
+begin send with from 25000 to 30000 
+ send finish 30000 tx in poll
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:29407 common_tx_num_in_pending:593 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:29998 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:27651 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:21446 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:25701 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:24001 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:22581 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:16841 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20370 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19336 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:17665 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:13818 common_tx_num_in_pending:2458 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:14797 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:13634 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:12151 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:9487 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:8537 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:7835 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:1792 common_tx_num_in_pending:4989 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:6419 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:5567 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:5010 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:1161 common_tx_num_in_pending:3118 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:3437 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:2919 
+config_tx_pool_size:10 common_tx_pool_size:50000 
+69
+begin benchmark with skew 1.500000 
+begin send with from 0 to 5000 
+ send finish 5000 tx in poll
+begin send with from 5000 to 10000 
+ send finish 10000 tx in poll
+begin send with from 10000 to 15000 
+ send finish 15000 tx in poll
+begin send with from 15000 to 20000 
+ send finish 19745 tx in poll
+begin send with from 20000 to 25000 
+ send finish 24745 tx in poll
+begin send with from 25000 to 30000 
+ send finish 29745 tx in poll
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:29745 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:28351 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:26625 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:19909 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:23530 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:22151 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:20426 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:13595 common_tx_num_in_pending:5000 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:16779 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:15414 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:13722 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:9905 common_tx_num_in_pending:2353 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:10276 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:8660 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:7347 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:3493 common_tx_num_in_pending:2601 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:3655 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:2295 
+config_tx_pool_size:10 common_tx_pool_size:50000 common_tx_num_in_queue:1243 
+config_tx_pool_size:10 common_tx_pool_size:50000 
+All heights: [3 11 18 25 32 39 46 51 52 54 55 55 62 67 68 69 71]
